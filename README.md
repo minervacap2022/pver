@@ -156,3 +156,8 @@ only increment a version number by a maximum of `1` per run. This means that
 intermediate commits are not released.
 
 > Looking for a different commit analysis pattern? [Create an issue!](#)
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
